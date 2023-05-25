@@ -1,1 +1,3 @@
 # Sztywne_Gity_Summary
+4. Syntax
+Syntax is one of the fields of linguistics which studies the well-formedness of phrases and sentences. Syntacticians investigate the grammar of a chosen language and/or generative grammar, which proposes that there is a universal grammar shared by all languages. This theory aims to examine grammatical rules and their cross-linguistic variations. Generative grammar has gained worldwide recognition among syntacticians. However, there are competing theories, such as construction grammar and cognitive linguistics, which either reject or remain neutral on the idea of the universal grammar.
