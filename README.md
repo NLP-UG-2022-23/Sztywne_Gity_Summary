@@ -8,3 +8,17 @@ Each lexical category has a corresponding constituent or phrasal category, refer
 12. Evolutionary Linguistics
 Language in Animals:
 The question of whether animals possess language capabilities has been a subject of debate among linguists. While some argue that certain animals exhibit behaviours that resemble language, the majority of linguists do not accept this proposition. Animals, including higher primates, are known to have a system of communication involving sounds that correspond to specific meanings, which is referred to as semantics. Some parrots have been observed to develop regional "dialects" among their groups, indicating a level of variation in their vocalisations that needs to be learned. Additionally, studies on prairie dogs suggest they may communicate using simple sentences composed of nouns and adjectives. However, none of these animal communication systems demonstrate the crucial linguistic feature known as recursion, which is considered a defining characteristic of human language.
+Hockett's Design Features:
+Charles Hockett, a prominent linguist, proposed a set of design features that distinguish human language from animal communication systems. These features highlight the unique aspects of human language:
+
+Reflexivity: Human language allows us to discuss and reflect on language itself. For instance, we can make statements about grammar rules, such as "Don't use a preposition at the end of a sentence!"
+
+Displacement: Unlike animal communication, human language enables us to convey information about events, objects, or ideas that are not present in the immediate context. We can talk about things that are spatially or temporally distant from us, such as recounting an encounter with a strange person in a pub the previous day.
+
+Arbitrariness: In human language, there is typically no inherent connection between the sounds or signs used and their meanings. For example, the word "moon" does not resemble the object it represents in any meaningful way; the relationship between the signifier and the signified is arbitrary.
+
+Productivity: Human language exhibits an extraordinary level of productivity or creativity. Speakers can generate an infinite number of novel and meaningful utterances within their language. For instance, the sentence "The car ate the marshmallow-hating helicopter" may be unconventional, but it can still be understood by any English speaker.
+
+Cultural transmission: Language plays a crucial role in the transmission of culture from one generation to the next. Unlike animal communication, which relies on innate biological patterns, human culture is acquired through language. Children learn the language and associated cultural knowledge from their parents and the surrounding community.
+
+Duality: Human language has a dual nature, comprising two distinct levels—sounds and meaning. Sounds are limited and specific to each language, but meanings can be manipulated and varied. This duality allows for the creation of different words and expressions. For example, in English, the words "made" and "paid" share similar sounds but have distinct meanings, demonstrating the ability to play with sounds and their associated meanings.
