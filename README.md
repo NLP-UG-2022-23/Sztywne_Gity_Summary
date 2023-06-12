@@ -31,4 +31,4 @@ Understanding the origins of human language is a complex task. Various theories 
 
 15. Sign Language - Language without Sound
 
-GeStUrEs, such as iconics, deictics, and beats, are non-linguistic movements that accompany speech but do not form completee language systems. TheY serve different purposes, like reflecting speech, pointing, or emPhasizing certain words. However, gestures la.ck the complexity and variety of ideas expressed in languages like english OR French, and they do not possess the unique design features of language.
+Gestures, such as iconics, deictics, and beats, are non-linguistic movements that accompany speech but do not form complete language systems. They serve different purposes, like reflecting speech, pointing, or emphasizing certain words. However, gestures lack the complexity and variety of ideas expressed in languages like English or French, and they do not possess the unique design features of language.
