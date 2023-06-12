@@ -28,3 +28,7 @@ Duality: Human language has a dual nature, comprising two distinct levels—soun
 
 Theories of Linguistic Origins:
 Understanding the origins of human language is a complex task. Various theories have been proposed to explain the development and evolution of language. One influential perspective, put forth by linguist Steven Pinker in his book "The Language Instinct," likens human language to an intricate system akin to an elephant's trunk. According to Pinker, although the intermediate stages of language evolution may not be fully known, investigating these stages can provide insights into the origins of human language.
+
+15. Sign Language - Language without Sound
+
+Gestures, such as iconics, deictics, and beats, are non-linguistic movements that accompany speech but do not form complete language systems. They serve different purposes, like reflecting speech, pointing, or emphasizing certain words. However, gestures lack the complexity and variety of ideas expressed in languages like English or French, and they do not possess the unique design features of language.
