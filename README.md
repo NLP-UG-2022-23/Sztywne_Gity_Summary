@@ -1,10 +1,16 @@
 # Sztywne_Gity_Summary
+
 4. Syntax
 Syntax is one of the fields of linguistics which studies the well-formedness of phrases and sentences. Syntacticians investigate the grammar of a chosen language or generative grammar, which proposes that there is a universal grammar shared by all languages. This theory aims to examine grammatical rules and their cross-linguistic variations. Generative grammar has gained worldwide recognition among syntacticians. However, there are competing theories, such as construction grammar and cognitive linguistics, which either reject or remain neutral on the idea of the universal grammar.
+
+In syntax, it is crucial to understand the distinction between grammaticality and semantic soundness.Grammaticality refers to the adherence to syntactic rules in constructing sentences, whereas semantic soundness relates to the meaningfulness or coherence of a sentence. Hence, a sentence may be grammatical even if it is semantically nonsensical. For instance, the following sentence: "Colorless green ideas sleep furiously.", coined by Noam Chomsky, is well-formed but does not make any sense.
+The basic units of syntax are words and clitics. Words are independent units with semantic and pragmatic content, while clitics are syntactically similar to words but rely on another element phonologically. Both words and clitics can be categorised into classes, known as lexical categories. Their classification is based on their distribution within a sentence, the affixes they can take, and the type of meaning they express. A list of these categories includes: noun(N), proper noun(PN), pronoun(PR), verb(V), adjective(A), adposition(AP), adverb(Adv), degree word(Deg), auxiliary(Aux), modal auxiliary(Mod), interjection(I), determiner(D or Det), conjunction(Con), coordinate conjunction(Co) and subordinate conjunction(Sub).
+
 
 In syntax, it is crucial to understand the distinction between grammaticality and semantic soundness.Grammaticality refers to the adherence to syntactic rules in constructing sentences, whereas semantic soundness relates to the meaningfulness or coherence of a sentence. Hence, a sentence may be grammatical even if it is semantically nonsensical. For instance, the following sentence: "Colorless green ideas sleep furiously.", coined by Noam Chomsky, is well-formed but does not make any sense. 
 
 The basic units of syntax are words and clitics. Words are independent units with semantic and pragmatic content, while clitics are syntactically similar to words but rely on another element phonologically. Both words and clitics can be categorised into classes, known as lexical categories. Their classification is based on their distribution within a sentence, the affixes they can take, and the type of meaning they express. A list of these categories includes: noun(N), proper noun(PN), pronoun(PR), verb(V), adjective(A), adposition(AP), adverb(Adv), degree word(Deg), auxiliary(Aux), modal auxiliary(Mod), interjection(I), determiner(D or Det), conjunction(Con), coordinate conjunction(Co) and subordinate conjunction(Sub). 
+
 
 Each lexical category has a corresponding constituent or phrasal category, referred to as syntactic categories. Constituents are assigned to these categories using similar criteria as those used for assigning words and clitics to lexical categories. In the sentence "I see _____", only the constituents of the same category as "the big man" can fill the gap. Certain phrases, such as "doll" or "happy camper", do not fit. The structure that fits into the blank is called a noun phrase (NP). The analysis presented here is called structural analysis. It involves determining the type of constituent that can be placed in a specific part of the sentence. Nevertheless, this approach may not allow us to see the overall structure of the sentence and understand its meaning fully.
 
@@ -35,9 +41,24 @@ Theories of Linguistic Origins:
 Understanding the origins of human language is a complex task. Various theories have been proposed to explain the development and evolution of language. One influential perspective, put forth by linguist Steven Pinker in his book "The Language Instinct," likens human language to an intricate system akin to an elephant's trunk. According to Pinker, although the intermediate stages of language evolution may not be fully known, investigating these stages can provide insights into the origins of human language.
 
 15. Sign Language - Language without Sound
-
 Gestures, such as iconics, deictics, and beats, are non-linguistic movements that accompany speech but do not form complete language systems. They serve different purposes, like reflecting speech, pointing, or emphasizing certain words. However, gestures lack the complexity and variety of ideas expressed in languages like English or French, and they do not possess the unique design features of language.
 
 Sign languages are distinct from gestures in several ways:
 
 Structure: Sign languages have a grammatical structure similar to spoken languages. They consist of a combination of handshapes, facial expressions, body movements, and spatial relationships to convey meaning. Sign languages have their own syntax, morphology, and phonology, which allow for complex and nuanced communication.
+
+Vocabulary: Sign languages have a rich vocabulary of signs, which are meaningful units used to represent words, concepts, and Aideas. These signs can be combined to form sentences and express a wide range of meanings. Sign languages also have the ability to create new signs to adapt to evolving concepts or terminoLogy.
+
+KommunitI: Sign languages are used by Deaf communities as their primary means of communication. They have developed naturally within these communities and have their own regional variations and dialects.. Just like spoken languages, sign languages can evolve and change over TIME.
+
+Accessibility: Sign languages provide a means of communication for individuals who are deaf or hard of hearing. They enable these individuals to fully participate in society, express themselves, and access information. Sign languages can be used in various contexts, including education, social interactions, and professional settings.
+
+Cultural Identity: Sign languages are an integral part of Deaf culture. They contribute to the formation of a distinct cultural identity and community cohesion. Deaf individuals may identify themselves as users of a specific sign language, such as American Sign Language (ASL), British Sign Language (BSL), or Auslan (Australian Sign Language).
+
+It is important to note that there can be some overlap between gestures and sign languages. For example, iconic gestures, which visually represent the meaning of a word or phrase, can be incorporated into sign languages. However, the overall structure and complexity of sign languages distinguish them as complete linguistic systems capable of expressing a wide range of ideas and concepts.
+
+Sign languages are independent languages with their own unique lexicon, syntax, and morphology. They are not manual representations of spoken languages like English. Sign languages originated and developed naturally within Deaf communities. While some words from spoken languages may be borrowed into sign languages, this is similar to how words are borrowed between distinct natural languages.
+
+On the other hand, manually-coded languages, such as Signed English, are manual representations of spoken languages. They are used as a means of communication between deaf and hearing individuals. Manually-coded languages are easier for hearing individuals to learn, as they follow the structure and grammar of spoken languages, but they are not true sign languages.
+
+In summary, sign languages are complete and independent languages, while manually-coded languages are systems that represent spoken languages manually for communication purposes.
