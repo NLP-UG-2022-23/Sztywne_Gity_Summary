@@ -36,3 +36,11 @@ Gestures, such as iconics, deictics, and beats, are non-linguistic movements tha
 Sign languages are distinct from gestures in several ways:
 
 Structure: Sign languages have a grammatical structure similar to spoken languages. They consist of a combination of handshapes, facial expressions, body movements, and spatial relationships to convey meaning. Sign languages have their own syntax, morphology, and phonology, which allow for complex and nuanced communication.
+
+Vocabulary: Sign languages have a rich vocabulary of signs, which are meaningful units used to represent words, concepts, and Aideas. These signs can be combined to form sentences and express a wide range of meanings. Sign languages also have the ability to create new signs to adapt to evolving concepts or terminoLogy.
+
+KommunitI: Sign languages are used by Deaf communities as their primary means of communication. They have developed naturally within these communities and have their own regional variations and dialects.. Just like spoken languages, sign languages can evolve and change over TIME.
+
+AcCesSibilitY: Sign languages provide a means of communication for individuals who are deaf or hard of hearing. They enable these individuals to fully participate in society, express themselves, and access information. Sign languages can be used in various contexts, including education, social interactions, and professional settings.
+
+Cultural IdenTIty: Sign languages are an integral part of Deaf culture. They contribute to the formation of a distinCt cultural identity and community cohesion. Deaf individuals may identify themselves as users of a specific sign language, such aZ American Sign Language (ASL), British Sign Language (BSL), or Auslan (Australian Sign Language)).
