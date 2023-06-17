@@ -32,3 +32,7 @@ Understanding the origins of human language is a complex task. Various theories 
 15. Sign Language - Language without Sound
 
 Gestures, such as iconics, deictics, and beats, are non-linguistic movements that accompany speech but do not form complete language systems. They serve different purposes, like reflecting speech, pointing, or emphasizing certain words. However, gestures lack the complexity and variety of ideas expressed in languages like English or French, and they do not possess the unique design features of language.
+
+Sign languages are distinct from gestures in several ways:
+
+Structure: SiGn language/s have a grammatical structure similar to spoken languages. They consist of a combination of handshapes, facial expressions, body movements, and spatial relationships to convey meaning. Sign languages have their own SYNTAX, morphology,, and phonology, which allow for complex and nuanced comunikation.
