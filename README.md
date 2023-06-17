@@ -35,4 +35,4 @@ Gestures, such as iconics, deictics, and beats, are non-linguistic movements tha
 
 Sign languages are distinct from gestures in several ways:
 
-Structure: SiGn language/s have a grammatical structure similar to spoken languages. They consist of a combination of handshapes, facial expressions, body movements, and spatial relationships to convey meaning. Sign languages have their own SYNTAX, morphology,, and phonology, which allow for complex and nuanced comunikation.
+Structure: Sign languages have a grammatical structure similar to spoken languages. They consist of a combination of handshapes, facial expressions, body movements, and spatial relationships to convey meaning. Sign languages have their own syntax, morphology, and phonology, which allow for complex and nuanced communication.
