@@ -4,15 +4,13 @@
 
 The human brain processes sounds and categorizes them into distinct units based on the language we speak. However, different languages categorize sounds differently, which can lead to misunderstandings when encountering unfamiliar sounds in a new language. This can be illustrated with an analogy of two groups of people, one from the Land of Men with a limited color palette, and another from the Land of Women with a wide range of colors. When the men visit the Land of Women, they struggle to distinguish between different shades of brown used for road signs, leading to confusion and misinterpretation. Similarly, speakers of different languages categorize sounds differently, affecting the way words are perceived and understood. For example, in English, the sounds in 'toe' and 'so' are distinguished by their initial consonants, but in Tok Pisin, these sounds can be interchanged without changing the word's meaning. Understanding how languages classify sounds, known as phonology, is crucial for effective communication. Phonologists study how languages divide the acoustic space into meaningful sound units.
 
-Phonemes
-Phonemes are the basic units of study in phonology. They are sets of sounds that function as a single unit in a language and distinguish between different words. Speakers categorize certain sounds into phonemes. For example, in Tok Pisin, both [s] and [t] belong to the phoneme /t/.
+**Phonemes**: Phonemes are the basic units of study in phonology. They are sets of sounds that function as a single unit in a language and distinguish between different words. Speakers categorize certain sounds into phonemes. For example, in Tok Pisin, both [s] and [t] belong to the phoneme /t/.
 
 Aspiration, which is the puff of air accompanying the sound, can vary between words. For instance, if you carefully pronounce the English words "keys" and "schools," you'll notice that the [k] sound in "keys" has aspiration, while it is absent in "schools." However, since aspiration does not change the meaning of a word, both sounds belong to the phoneme /k/. Therefore, the phonetic representations of these words are /kiz/ and /skulz/.
 
 Referring to phonemes is appropriate because they represent an abstraction level away from individual sounds (phones). By focusing on phonemes, we remove certain details that may be interesting but do not significantly impact various aspects of a language.
 
-Allophony
-Allophones are different pronunciations or variations of the same phoneme. When two phones belong to the same phoneme, they are considered allophones. For example, in Tok Pisin, [t] and [s] are allophones of the phoneme /t/, and in English, [k] and [kʰ] are allophones of the phoneme /k/.
+**Allophony**: Allophones are different pronunciations or variations of the same phoneme. When two phones belong to the same phoneme, they are considered allophones. For example, in Tok Pisin, [t] and [s] are allophones of the phoneme /t/, and in English, [k] and [kʰ] are allophones of the phoneme /k/.
 
 Allophones are often influenced by their surrounding environment, which means that the choice of allophone depends on the context. For instance, in many varieties of American English, the phoneme /t/ is realized as a tap [ɾ] between vowels in normal speech, as in the word "butter." In this case, the plosive [t] and the tap [ɾ] are allophones of the phoneme /t/ and are said to be in complementary distribution. Each environment selects one specific allophone, and they complement each other. Similarly, [k] and [kʰ] in English are in complementary distribution, with [k] occurring mainly in the sequence /sk/ and [kʰ] appearing elsewhere.
 
@@ -20,8 +18,7 @@ On the other hand, allophones can also co-occur in the same environment, indicat
 
 Allophones and their distribution provide insights into the phonological patterns and rules within a language.
 
-Minimal pairs
-One way to determine phonemes is through the use of minimal pairs, which are pairs of words that differ by only one sound. For example, in English, words like "do" and "too," "you" and "moo" form minimal pairs. By comparing such pairs, we can establish that the sounds in question represent distinct phonemes because they create differences in meaning and are not simply variations of the same sound (allophones). Minimal pairs demonstrate contrastive distribution, as the segments being compared occur in the same environment and cannot be allophones of each other.
+**Minimal pairs**: One way to determine phonemes is through the use of minimal pairs, which are pairs of words that differ by only one sound. For example, in English, words like "do" and "too," "you" and "moo" form minimal pairs. By comparing such pairs, we can establish that the sounds in question represent distinct phonemes because they create differences in meaning and are not simply variations of the same sound (allophones). Minimal pairs demonstrate contrastive distribution, as the segments being compared occur in the same environment and cannot be allophones of each other.
 
 However, relying solely on minimal pairs is not always foolproof, as it may be challenging to find them for certain phonemes even when there is a clear contrast. In some cases, near-minimal pairs can be found, where the words are very similar, making it unlikely that any environmental factors influence allophony.
 
@@ -30,8 +27,8 @@ Determining allophones also requires using common sense and considering the over
 It's important to note that there is no universally agreed-upon method to determine allophones definitively, and debates exist in many languages regarding the classification of sounds.
 
 Phonological Rules
-Phonotactics:
-Phonotactics refer to the rules that dictate how phonemes can be organized within a language. These rules determine the permissible arrangements of sounds. In English, for example, certain combinations like 'pf' and 'dchb' are not allowed at the beginning of syllables, while 'bg' is not allowed at the end. This is why words like "Pfilg," "Dchbin," and "Riaubg" are considered unpronounceable. On the other hand, words like "Mard" and "Droib" adhere to English phonotactics and have a more familiar feel.
+
+**Phonotactics**: Phonotactics refer to the rules that dictate how phonemes can be organized within a language. These rules determine the permissible arrangements of sounds. In English, for example, certain combinations like 'pf' and 'dchb' are not allowed at the beginning of syllables, while 'bg' is not allowed at the end. This is why words like "Pfilg," "Dchbin," and "Riaubg" are considered unpronounceable. On the other hand, words like "Mard" and "Droib" adhere to English phonotactics and have a more familiar feel.
 
 An example of creative use of words that follow phonotactics is found in Lewis Carroll's poem "Jabberwocky," where he invents nonsensical words that still adhere to the phonotactic rules of English.
 Couple of stanzas from his famed work:
@@ -50,6 +47,7 @@ Different languages have their own distinct phonotactics. For instance, the Czec
 Understanding phonotactics helps us analyze the organization of sounds within a language and explains why certain word formations feel natural or unfamiliar in different languages.
 
 4.Syntax
+
 Syntax is one of the fields of linguistics which studies the well-formedness of phrases and sentences. Syntacticians investigate the grammar of a chosen language or generative grammar, which proposes that there is a universal grammar shared by all languages. This theory aims to examine grammatical rules and their cross-linguistic variations. Generative grammar has gained worldwide recognition among syntacticians. However, there are competing theories, such as construction grammar and cognitive linguistics, which either reject or remain neutral on the idea of the universal grammar.
 
 In syntax, it is crucial to understand the distinction between grammaticality and semantic soundness.Grammaticality refers to the adherence to syntactic rules in constructing sentences, whereas semantic soundness relates to the meaningfulness or coherence of a sentence. Hence, a sentence may be grammatical even if it is semantically nonsensical. For instance, the following sentence: "Colorless green ideas sleep furiously.", coined by Noam Chomsky, is well-formed but does not make any sense.
@@ -58,7 +56,7 @@ The basic units of syntax are words and clitics. Words are independent units wit
 
 In syntax, it is crucial to understand the distinction between grammaticality and semantic soundness.Grammaticality refers to the adherence to syntactic rules in constructing sentences, whereas semantic soundness relates to the meaningfulness or coherence of a sentence. Hence, a sentence may be grammatical even if it is semantically nonsensical. For instance, the following sentence: "Colorless green ideas sleep furiously.", coined by Noam Chomsky, is well-formed but does not make any sense. 
 
-The basic units of syntax are words and clitics. Words are independent units with semantic and pragmatic content, while clitics are syntactically similar to words but rely on another element phonologically. Both words and clitics can be categorised into classes, known as lexical categories. Their classification is based on their distribution within a sentence, the affixes they can take, and the type of meaning they express. A list of these categories includes: noun(N), proper noun(PN), pronoun(PR), verb(V), adjective(A), adposition(AP), adverb(Adv), degree word(Deg), auxiliary(Aux), modal auxiliary(Mod), interjection(I), determiner(D or Det), conjunction(Con), coordinate conjunction(Co) and subordinate conjunction(Sub). 
+The basic units of syntax are words and clitics. Words are independent units with semantic and pragmatic content, while clitics are syntactically similar to words but rely on another element phonologically. Both words and clitics can be categorised into classes, known as lexical categories. Their classification is based on their distribution within a sentence, the affixes they can take, and the type of meaning they express. A list of these categories includes: noun(N), proper noun(PN), pronoun(PR), verb(V), adjective(A), adposition(AP), adverb(Adv), degree word(Deg), auxiliary(Aux), modal auxiliary(Mod), interjection(I), determiner(D or Det), conjunction(Con), coordinate conjunction(Co) and subordinate conjunction(Sub).
 
 
 Each lexical category has a corresponding constituent or phrasal category, referred to as syntactic categories. Constituents are assigned to these categories using similar criteria as those used for assigning words and clitics to lexical categories. In the sentence "I see _____", only the constituents of the same category as "the big man" can fill the gap. Certain phrases, such as "doll" or "happy camper", do not fit. The structure that fits into the blank is called a noun phrase (NP). The analysis presented here is called structural analysis. It involves determining the type of constituent that can be placed in a specific part of the sentence. Nevertheless, this approach may not allow us to see the overall structure of the sentence and understand its meaning fully.
@@ -69,8 +67,8 @@ Syntax trees are introduced as a schematic way to represent the structure of sen
 <img src="https://en.wikibooks.org/wiki/Linguistics/Syntax#/media/File:Syntax_Tree_-_I_hit_the_man.svg" alt="Tree">
 
 12.Evolutionary Linguistics
-Language in Animals:
-The question of whether animals possess language capabilities has been a subject of debate among linguists. While some argue that certain animals exhibit behaviours that resemble language, the majority of linguists do not accept this proposition. Animals, including higher primates, are known to have a system of communication involving sounds that correspond to specific meanings, which is referred to as semantics. Some parrots have been observed to develop regional "dialects" among their groups, indicating a level of variation in their vocalisations that needs to be learned. Additionally, studies on prairie dogs suggest they may communicate using simple sentences composed of nouns and adjectives. However, none of these animal communication systems demonstrate the crucial linguistic feature known as recursion, which is considered a defining characteristic of human language.
+
+Language in Animals: The question of whether animals possess language capabilities has been a subject of debate among linguists. While some argue that certain animals exhibit behaviours that resemble language, the majority of linguists do not accept this proposition. Animals, including higher primates, are known to have a system of communication involving sounds that correspond to specific meanings, which is referred to as semantics. Some parrots have been observed to develop regional "dialects" among their groups, indicating a level of variation in their vocalisations that needs to be learned. Additionally, studies on prairie dogs suggest they may communicate using simple sentences composed of nouns and adjectives. However, none of these animal communication systems demonstrate the crucial linguistic feature known as recursion, which is considered a defining characteristic of human language.
 Hockett's Design Features:
 Charles Hockett, a prominent linguist, proposed a set of design features that distinguish human language from animal communication systems. These features highlight the unique aspects of human language:
 
@@ -95,15 +93,15 @@ Gestures, such as iconics, deictics, and beats, are non-linguistic movements tha
 
 Sign languages are distinct from gestures in several ways:
 
-Structure: Sign languages have a grammatical structure similar to spoken languages. They consist of a combination of handshapes, facial expressions, body movements, and spatial relationships to convey meaning. Sign languages have their own syntax, morphology, and phonology, which allow for complex and nuanced communication.
+**Structure**: Sign languages have a grammatical structure similar to spoken languages. They consist of a combination of handshapes, facial expressions, body movements, and spatial relationships to convey meaning. Sign languages have their own syntax, morphology, and phonology, which allow for complex and nuanced communication.
 
-Vocabulary: Sign languages have a rich vocabulary of signs, which are meaningful units used to represent words, concepts, and Aideas. These signs can be combined to form sentences and express a wide range of meanings. Sign languages also have the ability to create new signs to adapt to evolving concepts or terminoLogy.
+**Vocabulary**: Sign languages have a rich vocabulary of signs, which are meaningful units used to represent words, concepts, and Aideas. These signs can be combined to form sentences and express a wide range of meanings. Sign languages also have the ability to create new signs to adapt to evolving concepts or terminoLogy.
 
-Community: Sign languages are used by Deaf communities as their primary means of communication. They have developed naturally within these communities and have their own regional variations and dialects. Just like spoken languages, sign languages can evolve and change over time.
+**Community**: Sign languages are used by Deaf communities as their primary means of communication. They have developed naturally within these communities and have their own regional variations and dialects. Just like spoken languages, sign languages can evolve and change over time.
 
-Accessibility: Sign languages provide a means of communication for individuals who are deaf or hard of hearing. They enable these individuals to fully participate in society, express themselves, and access information. Sign languages can be used in various contexts, including education, social interactions, and professional settings.
+**Accessibility**: Sign languages provide a means of communication for individuals who are deaf or hard of hearing. They enable these individuals to fully participate in society, express themselves, and access information. Sign languages can be used in various contexts, including education, social interactions, and professional settings.
 
-Cultural Identity: Sign languages are an integral part of Deaf culture. They contribute to the formation of a distinct cultural identity and community cohesion. Deaf individuals may identify themselves as users of a specific sign language, such as American Sign Language (ASL), British Sign Language (BSL), or Auslan (Australian Sign Language).
+**Cultural Identity**: Sign languages are an integral part of Deaf culture. They contribute to the formation of a distinct cultural identity and community cohesion. Deaf individuals may identify themselves as users of a specific sign language, such as American Sign Language (ASL), British Sign Language (BSL), or Auslan (Australian Sign Language).
 
 It is important to note that there can be some overlap between gestures and sign languages. For example, iconic gestures, which visually represent the meaning of a word or phrase, can be incorporated into sign languages. However, the overall structure and complexity of sign languages distinguish them as complete linguistic systems capable of expressing a wide range of ideas and concepts.
 
