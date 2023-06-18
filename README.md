@@ -34,6 +34,7 @@ Phonotactics:
 Phonotactics refer to the rules that dictate how phonemes can be organized within a language. These rules determine the permissible arrangements of sounds. In English, for example, certain combinations like 'pf' and 'dchb' are not allowed at the beginning of syllables, while 'bg' is not allowed at the end. This is why words like "Pfilg," "Dchbin," and "Riaubg" are considered unpronounceable. On the other hand, words like "Mard" and "Droib" adhere to English phonotactics and have a more familiar feel.
 
 An example of creative use of words that follow phonotactics is found in Lewis Carroll's poem "Jabberwocky," where he invents nonsensical words that still adhere to the phonotactic rules of English.
+Couple of stanzas from his famed work:
 
 >'Twas brillig, and the slithy toves
 
