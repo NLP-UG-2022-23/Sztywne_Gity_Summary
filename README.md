@@ -37,15 +37,13 @@ An example of creative use of words that follow phonotactics is found in Lewis C
 Couple of stanzas from his famed work:
 
 >'Twas brillig, and the slithy toves
-
-Did gyre and gimble in the wabe;
-All mimsy were the borogoves,
-And the mome raths outgrabe.
-
-"Beware the Jabberwock, my son!
-The jaws that bite, the claws that catch!
-Beware the Jubjub bird, and shun
-The frumious Bandersnatch!"
+>Did gyre and gimble in the wabe;
+>All mimsy were the borogoves,
+>And the mome raths outgrabe.
+>"Beware the Jabberwock, my son!
+>The jaws that bite, the claws that catch!
+>Beware the Jubjub bird, and shun
+>The frumious Bandersnatch!"
 
 Different languages have their own distinct phonotactics. For instance, the Czech Republic has cities named Brno and Plzeň, which demonstrate the allowance for complex consonant clusters in Czech. In Mandarin, however, phonotactics are different, and they do not permit complex consonant clusters. As a result, the Mandarin equivalent of Amsterdam is "Amusitedan."
 
