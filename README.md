@@ -34,12 +34,19 @@ An example of creative use of words that follow phonotactics is found in Lewis C
 Couple of stanzas from his famed work:
 
 >'Twas brillig, and the slithy toves
+>
 >Did gyre and gimble in the wabe;
+>
 >All mimsy were the borogoves,
+>
 >And the mome raths outgrabe.'
+>
 >"Beware the Jabberwock, my son!
+>
 >The jaws that bite, the claws that catch!
+>
 >Beware the Jubjub bird, and shun
+>
 >The frumious Bandersnatch!"
 
 Different languages have their own distinct phonotactics. For instance, the Czech Republic has cities named Brno and Plzeň, which demonstrate the allowance for complex consonant clusters in Czech. In Mandarin, however, phonotactics are different, and they do not permit complex consonant clusters. As a result, the Mandarin equivalent of Amsterdam is "Amusitedan."
@@ -87,8 +94,9 @@ Each lexical category has a corresponding constituent or phrasal category, refer
 
 In constituent analysis, sentences were viewed as blocks of constituents that can be combined in different ways. However, this analysis fails to capture a hierarchical structure in the sentence. The phrase "hit the big man" makes sense as it describes a real action, whereas "I hit" does not make sense because "hit" requires an object. This suggests that "I" and "hit the big man" are larger constituents, traditionally known as the subject and predicate. The following sentence can be separated into constituents as follows: [I [hit [the big man]]].
 
-Syntax trees are introduced as a schematic way to represent the structure of sentences. Constituents are known as nodes, which are connected by branches. Phrases typically consist of two constituents, adhering to the binary branching condition. The head of a phrase determines the syntactic category of the phrase. In other words, in the verb phrase: [hit [the big man]], hit is the head of the verb phrase. 
-<img src="https://en.wikibooks.org/wiki/Linguistics/Syntax#/media/File:Syntax_Tree_-_I_hit_the_man.svg" alt="Tree">
+Syntax trees are introduced as a schematic way to represent the structure of sentences. Constituents are known as nodes, which are connected by branches. Phrases typically consist of two constituents, adhering to the binary branching condition. The head of a phrase determines the syntactic category of the phrase. In other words, in the verb phrase: [hit [the big man]], hit is the head of the verb phrase.
+
+![Tree](https://en.wikibooks.org/wiki/Linguistics/Syntax#/media/File:Syntax_Tree_-_I_hit_the_man.svg" alt="Tree)
 
 12.Evolutionary Linguistics
 
