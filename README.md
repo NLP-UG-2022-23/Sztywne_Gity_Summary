@@ -99,6 +99,7 @@ Syntax trees are introduced as a schematic way to represent the structure of sen
 ![Tree](https://en.wikibooks.org/wiki/Linguistics/Syntax#/media/File:Syntax_Tree_-_I_hit_the_man.svg" alt="Tree)
 
 12.Evolutionary Linguistics
+![Evolutionary Linguisitcs](https://www.listenandlearn.org/blog/wp-content/uploads/2018/01/640px-Human_evolution.svg_.png)
 
 Language in Animals: The question of whether animals possess language capabilities has been a subject of debate among linguists. While some argue that certain animals exhibit behaviours that resemble language, the majority of linguists do not accept this proposition. Animals, including higher primates, are known to have a system of communication involving sounds that correspond to specific meanings, which is referred to as semantics. Some parrots have been observed to develop regional "dialects" among their groups, indicating a level of variation in their vocalisations that needs to be learned. Additionally, studies on prairie dogs suggest they may communicate using simple sentences composed of nouns and adjectives. However, none of these animal communication systems demonstrate the crucial linguistic feature known as recursion, which is considered a defining characteristic of human language.
 Hockett's Design Features:
