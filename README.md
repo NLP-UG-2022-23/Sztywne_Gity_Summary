@@ -46,6 +46,30 @@ Different languages have their own distinct phonotactics. For instance, the Czec
 
 Understanding phonotactics helps us analyze the organization of sounds within a language and explains why certain word formations feel natural or unfamiliar in different languages.
 
+**Morphophonology**, also known as morphophonemics, examines the interaction between the structure of words (morphology) and their pronunciation (phonology). It involves analyzing the underlying or morpho-phonemic representations of words, which are abstract representations below the phonemic level. An example of this can be seen in Biloxi words, where different forms of words exhibit phonological changes:
+
+- "de" (he goes) becomes "da" (don't go)
+- "ande" (he is) becomes "anda" (be!)
+- "ide" (it falls) becomes "ide" (fall!)
+- "da" (he gathers) remains "da" (gather!)
+
+Morphophonology is also used to address cases of neutralization and underspecification. For instance, in Turkish, certain words show patterns where final stops are always devoiced, but some stops voice when followed by a vowel added through suffixing, while others remain voiceless. Although both "et" (meat) and "eti" (his meat) are represented phonemically as /et/ to maintain contrast, it is acknowledged that the word for "to do" underlyingly ends in a different segment, which doesn't surface in certain positions. This underlying or morpho-phonemic representation is denoted with pipes (||), such as |et|, |eti|, |ed|, and |edi|.
+
+The parallelism between the morpho-phonemic layer and the phonemic layer is evident. Just as phonemes are realized as specific sounds based on their environment, underlying segments in morpho-phonology are realized as phonemes. The key distinction is that the surfacing of morpho-phonemic segments as phonemes occurs after morphological processes (e.g., adding word endings) have taken place. Morphophonology is informed by morphology, whereas plain phonology is not.
+
+**Issue**:
+In certain linguistic frameworks, such as phonetics and phonology, it is useful to categorize a language's sounds into distinct types called phonemes. Phonemes are considered abstract entities that represent sound categories and transcend the specific phonetic realizations and variations of a sound in a language.
+
+For instance, the English phoneme /l/ is posited to exist because it creates a noticeable contrast with similar-sounding words like 'right' or 'write,' which have the distinct phoneme /r/ instead of /l/ at the beginning. This contrast between 'light' and 'write' illustrates that, at least in English, the phonemes /l/ and /r/ are distinct sound categories.
+
+However, this phonemic model has a fundamental weakness in terms of circular logic. Phonemes are used to define the semantic aspects of language (lexical or higher-level meaning), but the phonological realm is then defined based on semantic means, such as minimal pairs of words like 'light' vs. 'right' or 'pay' vs. 'bay.' Additionally, if phonemes and minimal pairs were such precise tools, they would not result in such wide variations in sound inventories across languages (e.g., English with 38–50 phonemes). Furthermore, most words differentiate meaning based on more information than just a contrast between two sounds.
+
+The phoneme is primarily a construct of structuralist and/or psycholinguistic categories within phonology. It is ideally supposed to exist across variations known as allophones and can be realized differently, such as the so-called 'clear' [l] at the beginning of a word like 'like' or the so-called 'dark' [l] at the end of a word like 'feel.'
+
+These concerns primarily fall outside the domain of phonetics because structuralist and/or psycholinguistic categories pertain to cognitive and mental aspects of language processing and acquisition. In other words, the phoneme may or may not be a reality in phonology, but it is not a physical component of realized speech in the vocal tract. Actual speech is co-articulated, involves movement, and spreads sound aspects over entire syllables and words. While it is convenient to consider speech as a sequence of segments (which may or may not closely align with ideal phonemic segments) for discussion in written form, phonetic analysis of speech contradicts such a model.
+
+However, it should be noted that if we aim to represent dynamic and complex speech using static writing, constructs like phonemes serve as convenient fictions to convey what we are attempting to transcribe (alternative units for capturing language in written form include the syllable and the word).
+
 4.Syntax
 
 Syntax is one of the fields of linguistics which studies the well-formedness of phrases and sentences. Syntacticians investigate the grammar of a chosen language or generative grammar, which proposes that there is a universal grammar shared by all languages. This theory aims to examine grammatical rules and their cross-linguistic variations. Generative grammar has gained worldwide recognition among syntacticians. However, there are competing theories, such as construction grammar and cognitive linguistics, which either reject or remain neutral on the idea of the universal grammar.
@@ -88,6 +112,8 @@ Theories of Linguistic Origins:
 Understanding the origins of human language is a complex task. Various theories have been proposed to explain the development and evolution of language. One influential perspective, put forth by linguist Steven Pinker in his book "The Language Instinct," likens human language to an intricate system akin to an elephant's trunk. According to Pinker, although the intermediate stages of language evolution may not be fully known, investigating these stages can provide insights into the origins of human language.
 
 15.Sign Language - Language without Sound
+
+![Sign Language](https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/0/2024/files/2021/04/ML.jpg)
 
 Gestures, such as iconics, deictics, and beats, are non-linguistic movements that accompany speech but do not form complete language systems. They serve different purposes, like reflecting speech, pointing, or emphasizing certain words. However, gestures lack the complexity and variety of ideas expressed in languages like English or French, and they do not possess the unique design features of language.
 
