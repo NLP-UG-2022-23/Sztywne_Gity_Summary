@@ -96,7 +96,7 @@ In constituent analysis, sentences were viewed as blocks of constituents that ca
 
 Syntax trees are introduced as a schematic way to represent the structure of sentences. Constituents are known as nodes, which are connected by branches. Phrases typically consist of two constituents, adhering to the binary branching condition. The head of a phrase determines the syntactic category of the phrase. In other words, in the verb phrase: [hit [the big man]], hit is the head of the verb phrase.
 
-![Tree](https://en.wikibooks.org/wiki/Linguistics/Syntax#/media/File:Syntax_Tree_-_I_hit_the_man.svg)
+![Syntax Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Syntax_Tree_-_I_hit_the_man.svg/800px-Syntax_Tree_-_I_hit_the_man.svg.png)
 
 12.Evolutionary Linguistics
 ![Evolutionary Linguisitcs](https://www.listenandlearn.org/blog/wp-content/uploads/2018/01/640px-Human_evolution.svg_.png)
